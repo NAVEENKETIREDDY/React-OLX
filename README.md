@@ -1,3 +1,7 @@
+email":"bruce@wayne.com",
+password":"gotham123"
+
+
 <<<<<<< HEAD
 # React-OLX
 =======
